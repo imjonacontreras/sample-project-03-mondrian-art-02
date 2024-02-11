@@ -1,5 +1,3 @@
-# sample-project-03-mondrian-art-02
-
 # Project Name : sample-project-03-mondrian-art-02 🖌️
 
 **Demo Link** : https://imjonacontreras.github.io/sample-project-03-mondrian-art-02/
